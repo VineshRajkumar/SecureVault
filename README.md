@@ -13,6 +13,7 @@ Secure Vault is a web application that allows users to securely store their pass
 
 - Vite React
 - Tailwind CSS
+- Tailblocks
 
 
 
