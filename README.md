@@ -29,4 +29,4 @@ Secure Vault is a web application that allows users to securely store their pass
 
 ## Authors
 
-- [VineshRajkumar](https://github.com/yourusername)
+- [VineshRajkumar](https://github.com/VineshRajkumar)
