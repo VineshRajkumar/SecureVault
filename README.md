@@ -9,6 +9,12 @@ Secure Vault is a web application that allows users to securely store their pass
 - Visibility toggle for passwords
 - Data persistence with local storage
 
+## Screenshots
+
+![SecureVault Screenshot](https://github.com/VineshRajkumar/SecureVault-MongoDB/blob/d81b42097622e4f6c48d53815af26dd5db3c0d0c/Screenshot%202024-07-19%20201937.png)
+
+![SecureVault Screenshot](https://github.com/VineshRajkumar/SecureVault-MongoDB/blob/d81b42097622e4f6c48d53815af26dd5db3c0d0c/Screenshot%202024-07-19%20202143.png)
+
 ## Technologies Used
 
 - Vite React
